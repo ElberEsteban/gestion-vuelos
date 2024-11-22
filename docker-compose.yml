@@ -1,0 +1,13 @@
+name: gestion-vuelos-virtual
+services:
+  springboot-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8017:8017"
+    networks:
+      - my_bridge_network
+networks:
+  my_bridge_network:
+    external: true
