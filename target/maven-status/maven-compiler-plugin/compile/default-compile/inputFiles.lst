@@ -1,0 +1,15 @@
+C:\Users\esteban.gonzalez\Documents\CodeFactory\gestion-vuelos\src\main\java\com\sitas\gestionvuelos\config\CORSConfig.java
+C:\Users\esteban.gonzalez\Documents\CodeFactory\gestion-vuelos\src\main\java\com\sitas\gestionvuelos\entities\Aeronave.java
+C:\Users\esteban.gonzalez\Documents\CodeFactory\gestion-vuelos\src\main\java\com\sitas\gestionvuelos\entities\Escala.java
+C:\Users\esteban.gonzalez\Documents\CodeFactory\gestion-vuelos\src\main\java\com\sitas\gestionvuelos\entities\TemporadaPrecio.java
+C:\Users\esteban.gonzalez\Documents\CodeFactory\gestion-vuelos\src\main\java\com\sitas\gestionvuelos\entities\Tripulacion.java
+C:\Users\esteban.gonzalez\Documents\CodeFactory\gestion-vuelos\src\main\java\com\sitas\gestionvuelos\entities\TripulacionVuelo.java
+C:\Users\esteban.gonzalez\Documents\CodeFactory\gestion-vuelos\src\main\java\com\sitas\gestionvuelos\entities\Vuelo.java
+C:\Users\esteban.gonzalez\Documents\CodeFactory\gestion-vuelos\src\main\java\com\sitas\gestionvuelos\GestionVuelosApplication.java
+C:\Users\esteban.gonzalez\Documents\CodeFactory\gestion-vuelos\src\main\java\com\sitas\gestionvuelos\repositories\AeronaveRepository.java
+C:\Users\esteban.gonzalez\Documents\CodeFactory\gestion-vuelos\src\main\java\com\sitas\gestionvuelos\repositories\EscalaRepository.java
+C:\Users\esteban.gonzalez\Documents\CodeFactory\gestion-vuelos\src\main\java\com\sitas\gestionvuelos\repositories\TemporadaPrecioRepository.java
+C:\Users\esteban.gonzalez\Documents\CodeFactory\gestion-vuelos\src\main\java\com\sitas\gestionvuelos\repositories\TripulacionRepository.java
+C:\Users\esteban.gonzalez\Documents\CodeFactory\gestion-vuelos\src\main\java\com\sitas\gestionvuelos\repositories\VueloRepository.java
+C:\Users\esteban.gonzalez\Documents\CodeFactory\gestion-vuelos\src\main\java\com\sitas\gestionvuelos\resolvers\MutationResolver.java
+C:\Users\esteban.gonzalez\Documents\CodeFactory\gestion-vuelos\src\main\java\com\sitas\gestionvuelos\resolvers\QueryResolver.java

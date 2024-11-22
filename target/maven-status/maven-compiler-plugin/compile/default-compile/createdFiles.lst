@@ -1,0 +1,15 @@
+com\sitas\gestionvuelos\repositories\TripulacionRepository.class
+com\sitas\gestionvuelos\repositories\AeronaveRepository.class
+com\sitas\gestionvuelos\resolvers\QueryResolver.class
+com\sitas\gestionvuelos\repositories\EscalaRepository.class
+com\sitas\gestionvuelos\GestionVuelosApplication.class
+com\sitas\gestionvuelos\entities\Vuelo.class
+com\sitas\gestionvuelos\entities\Aeronave.class
+com\sitas\gestionvuelos\entities\Tripulacion.class
+com\sitas\gestionvuelos\entities\TemporadaPrecio.class
+com\sitas\gestionvuelos\repositories\TemporadaPrecioRepository.class
+com\sitas\gestionvuelos\entities\Escala.class
+com\sitas\gestionvuelos\entities\TripulacionVuelo.class
+com\sitas\gestionvuelos\repositories\VueloRepository.class
+com\sitas\gestionvuelos\config\CORSConfig.class
+com\sitas\gestionvuelos\resolvers\MutationResolver.class
